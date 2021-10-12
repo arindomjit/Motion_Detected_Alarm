@@ -1,5 +1,5 @@
 numpy==1.16.3
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 pyttsx3==2.87
 pytz==2020.1
 pywin32==227
